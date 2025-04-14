@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GAnni1302
+- 👋 Hi, I’m @GAnni-02
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
